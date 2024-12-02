@@ -1,0 +1,5 @@
+SHAPEFILE IMPORT FEATURE
+-UPLOAD SHAFEFIZE ZIP
+-CONVERT TO SQL
+-IMPORT THE SQL
+--clean up (delete all files zip , extracted and sql
